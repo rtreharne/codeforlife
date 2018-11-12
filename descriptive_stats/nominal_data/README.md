@@ -19,5 +19,5 @@
 
   + data.csv
   + Google Sheets walkthrough
-  + Python walkthrough
+  + Python walkthrough: [Jupyter Notebook](), [YouTube](https://youtu.be/ILnBKqbbzOM)
   + R walkthrough
