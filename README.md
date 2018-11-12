@@ -1,19 +1,12 @@
 # Code for Life
 
-This project aims to introduce first year students in Biological Sciences at the University of Liverpool to statistics via three key tools.
-
-  + Google Sheets
-  + R
-  + Python
+This project aims to introduce first year Life Science students at the University of Liverpool to statistics via three key tools (Google Sheets, R and Python) and using a hands on, pragmatic approach.
 
 ## Contents
 
   + Descriptive Statistics
-    - Central tendancies
-    - Descrete data 
-    - Continous data
-      + Ordinal data 
-      + Categorical data
+    - Nominal data
+    - Ordinal data
   + Inferential Statistics
     - Regression
     - Sampling
