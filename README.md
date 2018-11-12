@@ -5,7 +5,7 @@ This project aims to introduce first year Life Science students at the Universit
 ## Contents
 
   + Descriptive Statistics
-    - Nominal data
+    - (Nominal data)[https://github.com/rtreharne/codeforlife/tree/master/descriptive_stats/nominal_data]
     - Ordinal data
   + Inferential Statistics
     - Regression
