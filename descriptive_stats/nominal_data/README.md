@@ -19,5 +19,5 @@
 
   + data.csv
   + Google Sheets walkthrough
-  + Python walkthrough: [Jupyter Notebook](), [YouTube](https://youtu.be/ILnBKqbbzOM)
+  + Python walkthrough: [Jupyter Notebook](0_nominal_data_dung_flies.ipynb), [YouTube](https://youtu.be/ILnBKqbbzOM)
   + R walkthrough
