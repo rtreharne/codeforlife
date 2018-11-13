@@ -9,6 +9,8 @@ This project aims to introduce first year Life Science students at the Universit
     - Ordinal data
   + Inferential Statistics
     - Regression
+      + Linear
+      + Non-linear
     - Sampling
     - Box plots
     - T-tests
