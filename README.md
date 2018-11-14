@@ -11,6 +11,8 @@ This project aims to introduce first year Life Science students at the Universit
     - Regression
       + Linear
       + Non-linear
+        - Power
+        - Exponential
     - Sampling
     - Box plots
     - T-tests
